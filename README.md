@@ -1,4 +1,4 @@
-##🌍 Projeto de Persistência Poliglota (SQLite + MongoDB + Geoprocessamento)
+## 🌍 Projeto de Persistência Poliglota (SQLite + MongoDB + Geoprocessamento)
 
 Este projeto demonstra *persistência poliglota* integrando dois bancos de dados:
 - *SQLite* → para dados tabulares estruturados (ex: cidades e populações)
