@@ -20,6 +20,6 @@ Além disso, utiliza a biblioteca *geopy* para cálculos de distância e integra
 ---
 
 Grupo:
-Mateus Branco Espínola Macêdo de Menezes
-Lara Lopes Marques
+Mateus Branco Espínola Macêdo de Menezes,
+Lara Lopes Marques e
 Carlos Emanoel Paulino do Nascimento
