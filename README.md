@@ -16,3 +16,10 @@ Além disso, utiliza a biblioteca *geopy* para cálculos de distância e integra
 - Cálculo de *distância em km* entre dois pontos (geopy).
 - Busca de locais dentro de um *raio de distância* em torno de um ponto central (MongoDB).
 - *Cruzamento de dados*: relaciona informações do MongoDB (locais) com o SQLite (cidades).
+
+---
+
+Grupo:
+Mateus Branco Espínola Macêdo de Menezes
+Lara Lopes Marques
+Carlos Emanoel Paulino do Nascimento
